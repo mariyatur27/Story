@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Story/Us_Project/us/static/css/main.c0a28385.css",
-    "main.js": "/Story/Us_Project/us/static/js/main.a2c5beaa.js",
-    "static/media/image4.jpg": "/Story/Us_Project/us/static/media/image4.970373210190f8972e01.jpg",
-    "static/media/image2.jpg": "/Story/Us_Project/us/static/media/image2.685f07b4363df9280070.jpg",
-    "static/media/image5.jpg": "/Story/Us_Project/us/static/media/image5.2ca9fdc80b409220cf9a.jpg",
-    "static/media/image3.jpg": "/Story/Us_Project/us/static/media/image3.e3df24fb13364eeadc4b.jpg",
-    "static/media/image1.jpg": "/Story/Us_Project/us/static/media/image1.bcb1cdf4dd74bba00a21.jpg",
-    "static/media/image9.png": "/Story/Us_Project/us/static/media/image9.0cf667d811eac582237b.png",
-    "static/media/image8.png": "/Story/Us_Project/us/static/media/image8.8429373efa7795dbc9b1.png",
-    "static/media/image7.png": "/Story/Us_Project/us/static/media/image7.71de6380a92b85630041.png",
-    "static/media/image6.png": "/Story/Us_Project/us/static/media/image6.d81052e0c4441131744a.png",
-    "index.html": "/Story/Us_Project/us/index.html",
-    "main.c0a28385.css.map": "/Story/Us_Project/us/static/css/main.c0a28385.css.map",
-    "main.a2c5beaa.js.map": "/Story/Us_Project/us/static/js/main.a2c5beaa.js.map"
+    "main.css": "/Story/static/css/main.c0a28385.css",
+    "main.js": "/Story/static/js/main.76ce65f2.js",
+    "static/media/image4.jpg": "/Story/static/media/image4.970373210190f8972e01.jpg",
+    "static/media/image2.jpg": "/Story/static/media/image2.685f07b4363df9280070.jpg",
+    "static/media/image5.jpg": "/Story/static/media/image5.2ca9fdc80b409220cf9a.jpg",
+    "static/media/image3.jpg": "/Story/static/media/image3.e3df24fb13364eeadc4b.jpg",
+    "static/media/image1.jpg": "/Story/static/media/image1.bcb1cdf4dd74bba00a21.jpg",
+    "static/media/image9.png": "/Story/static/media/image9.0cf667d811eac582237b.png",
+    "static/media/image8.png": "/Story/static/media/image8.8429373efa7795dbc9b1.png",
+    "static/media/image7.png": "/Story/static/media/image7.71de6380a92b85630041.png",
+    "static/media/image6.png": "/Story/static/media/image6.d81052e0c4441131744a.png",
+    "index.html": "/Story/index.html",
+    "main.c0a28385.css.map": "/Story/static/css/main.c0a28385.css.map",
+    "main.76ce65f2.js.map": "/Story/static/js/main.76ce65f2.js.map"
   },
   "entrypoints": [
     "static/css/main.c0a28385.css",
-    "static/js/main.a2c5beaa.js"
+    "static/js/main.76ce65f2.js"
   ]
 }
